@@ -200,8 +200,6 @@ print(
 
 Please ensure you test your decorators with the provided target functions and verify the outputs.
 
-Sure, here are two tasks designed to help students understand and practice asynchronous programming in Python:
-
 ## Section 3: Asynchronous Programming in Python
 
 In this section, you will work on tasks that involve asynchronous programming using `asyncio`. These tasks are designed to help you understand how to write and manage asynchronous code in Python.
